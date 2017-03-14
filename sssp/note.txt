@@ -1,0 +1,4 @@
+1.新建一个web maven项目
+2.在pom.xml添加jar
+
+3.配置web.xml文件
